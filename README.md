@@ -7,4 +7,4 @@ Given that flight prices today are unpredictablee, we will try to check what fac
 
 And perform price prediction using Linear Regression, KNN and Decision Tree Regressor.
 
-The data set was taken from Kagel
+The data set was taken from Kaggel.
